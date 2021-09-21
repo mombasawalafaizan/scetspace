@@ -18,6 +18,10 @@
   ],
   "start": "nodemon -e js, ejs",
   "author": "Faizan Mombasawala",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mombasawalafaizan/scetspace.git"
+  },
   "license": "ISC",
   "dependencies": {
     "@azure/storage-blob": "^12.8.0",
