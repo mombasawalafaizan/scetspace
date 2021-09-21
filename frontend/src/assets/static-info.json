@@ -1,0 +1,284 @@
+{
+    "semester": {
+        "sem3": {
+            "id": 3,
+            "name": "Semester 3",
+            "subjects": [
+                {
+                    "name": "Digital Fundamentals",
+                    "id": "df"
+                },
+                {
+                    "name": "Database Management Systems",
+                    "id": "dbms"
+                },
+                {
+                    "name": "Data Structures",
+                    "id": "ds"
+                },
+                {
+                    "name": "Indian Constitution",
+                    "id": "ic"
+                },
+                {
+                    "name": "Probability and Statistics",
+                    "id": "ps"
+                },
+                {
+                    "name": "Effective Technical Communication",
+                    "id": "etc"
+                }
+            ]
+        },
+        "sem4": {
+            "id": 4,
+            "name": "Semester 4",
+            "subjects": [
+                {
+                    "name": "Operating System",
+                    "id": "os"
+                },
+                {
+                    "name": "Object Oriented Programming",
+                    "id": "oop"
+                },
+                {
+                    "name": "Computer Organization and Architecture",
+                    "id": "coa"
+                },
+                {
+                    "name": "Discrete Mathematics",
+                    "id": "dms"
+                },
+                {
+                    "name": "Principles of Economics and Management",
+                    "id": "pem"
+                }
+            ]
+        },
+        "sem5": {
+            "id": 5,
+            "name": "Semester 5",
+            "subjects": [
+                {
+                    "name": "Computer Networks",
+                    "id": "cn"
+                },
+                {
+                    "name": "Software Engineering",
+                    "id": "se"
+                },
+                {
+                    "name": "Professional Ethics",
+                    "id": "pe"
+                },
+                {
+                    "name": "Analysis and Design of Algorithms",
+                    "id": "ada"
+                },
+                {
+                    "name": "Python for Data Science",
+                    "id": "pds"
+                },
+                {
+                    "name": "Cyber Security",
+                    "id": "cs"
+                }
+            ]
+        },
+        "sem6": {
+            "id": 6,
+            "name": "Semester 6",
+            "subjects": [
+                {
+                    "name": "Internet Of Things",
+                    "id": "iot"
+                },
+                {
+                    "name": "Advanced Java",
+                    "id": "aj"
+                },
+                {
+                    "name": "Microprocessor and Interfacing",
+                    "id": "mi"
+                },
+                {
+                    "name": "Theory of Computation",
+                    "id": "toc"
+                },
+                {
+                    "name": "Web Programming",
+                    "id": "wp"
+                },
+                {
+                    "name": "Data Mining",
+                    "id": "dm"
+                },
+                {
+                    "name": "Data Visualization",
+                    "id": "dv"
+                }
+            ]
+        },
+        "sem7": {
+            "id": 7,
+            "name": "Semester 7",
+            "subjects": [
+                {
+                    "name": "Cloud Computing",
+                    "id": "cc"
+                },
+                {
+                    "name": "Machine Learning",
+                    "id": "ml"
+                },
+                {
+                    "name": "Information Security",
+                    "id": "is"
+                },
+                {
+                    "name": "Information Retrieval",
+                    "id": "ir"
+                },
+                {
+                    "name": "Artificial Intelligence",
+                    "id": "ai"
+                },
+                {
+                    "name": "Compiler Design",
+                    "id": "cd"
+                },
+                {	
+                    "name": "Mobile Application Development",	
+                    "id": "mad"	
+                }
+            ]
+        }
+    },
+    "subjects": {
+        "mad": {	
+            "name": "Mobile Application Development",	
+            "id": "mad"	
+        },
+        "df": {
+            "name": "Digital Fundamentals",
+            "id": "df"
+        },
+        "dbms": {
+            "name": "Database Management Systems",
+            "id": "dbms"
+        },
+        "ds": {
+            "name": "Data Structures",
+            "id": "ds"
+        },
+        "ic": {
+            "name": "Indian Constitution",
+            "id": "ic"
+        },
+        "ps": {
+            "name": "Probability and Statistics",
+            "id": "ps"
+        },
+        "etc": {
+            "name": "Effective Technical Communication",
+            "id": "etc"
+        },
+        "os": {
+            "name": "Operating System",
+            "id": "os"
+        },
+        "oop": {
+            "name": "Object Oriented Programming",
+            "id": "oop"
+        },
+        "coa": {
+            "name": "Computer Organization and Architecture",
+            "id": "coa"
+        },
+        "dms": {
+            "name": "Discrete Mathematics",
+            "id": "dms"
+        },
+        "pem": {
+            "name": "Principles of Economics and Management",
+            "id": "pem"
+        },
+        "se": {
+            "name": "Software Engineering",
+            "id": "se"
+        },
+        "pe": {
+            "name": "Professional Ethics",
+            "id": "pe"
+        },
+        "ada": {
+            "name": "Analysis and Design of Algorithms",
+            "id": "ada"
+        },
+        "pds": {
+            "name": "Python for Data Science",
+            "id": "pds"
+        },
+        "cs": {
+            "name": "Cyber Security",
+            "id": "cs"
+        },
+        "wp": {
+            "name": "Web Programming",
+            "id": "wp"
+        },
+        "dm": {
+            "name": "Data Mining",
+            "id": "dm"
+        },
+        "dv": {
+            "name": "Data Visualization",
+            "id": "dv"
+        },
+        "cc": {
+            "name": "Cloud Computing",
+            "id": "cc"
+        },
+        "ml": {
+            "name": "Machine Learning",
+            "id": "ml"
+        },
+        "is": {
+            "name": "Information Security",
+            "id": "is"
+        },
+        "ir": {
+            "name": "Information Retrieval",
+            "id": "ir"
+        },
+        "ai": {
+            "name": "Artificial Intelligence",
+            "id": "ai"
+        },
+        "cd": {
+            "name": "Compiler Design",
+            "id": "cd"
+        },
+        "cn": {
+            "id": "cn",
+            "name": "Computer Networking"
+        },
+        "iot": {
+            "id": "iot",
+            "name": "Internet Of Things"
+        },
+        "aj": {
+            "id": "aj",
+            "name": "Advanced Java"
+        },
+        "mi": {
+            "id": "mi",
+            "name": "Microprocessor and Interfacing"
+        },
+        "toc": {
+            "id": "toc",
+            "name": "Theory of Computation"
+        }
+    }
+}
