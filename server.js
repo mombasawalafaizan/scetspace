@@ -50,7 +50,7 @@ app.get('*', (req, res) => {
     res.sendFile(path.join(__dirname, 'frontend/public/index.html'));
 })
 
-const port = 1337 || process.env.PORT
+const port = process.env.PORT
 // Change client proxy to 168.31.80
 
 app.listen(port, function () {
